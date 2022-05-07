@@ -1,3 +1,3 @@
 # fork-me
 
-I'm meant to be forked!
+It is meant to be forked!
